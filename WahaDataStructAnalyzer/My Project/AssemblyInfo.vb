@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("WahaDataStructAnalyzer")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("Hewlett-Packard Company")>
+<Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("WahaDataStructAnalyzer")>
-<Assembly: AssemblyCopyright("Copyright © Hewlett-Packard Company 2018")>
+<Assembly: AssemblyCopyright("Copyright © bobine 2018")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
