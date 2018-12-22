@@ -1,5 +1,5 @@
 ﻿Public Class Util
-
+    '2018-12-22
 
 #Region "　Left メソッド　"
 

@@ -58,7 +58,7 @@ Partial Class Form1
         Me.ListBox1.ItemHeight = 12
         Me.ListBox1.Location = New System.Drawing.Point(5, 124)
         Me.ListBox1.Name = "ListBox1"
-        Me.ListBox1.Size = New System.Drawing.Size(596, 316)
+        Me.ListBox1.Size = New System.Drawing.Size(709, 316)
         Me.ListBox1.TabIndex = 2
         '
         'ProgressBar1
@@ -67,7 +67,7 @@ Partial Class Form1
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.ProgressBar1.Location = New System.Drawing.Point(5, 448)
         Me.ProgressBar1.Name = "ProgressBar1"
-        Me.ProgressBar1.Size = New System.Drawing.Size(596, 11)
+        Me.ProgressBar1.Size = New System.Drawing.Size(709, 10)
         Me.ProgressBar1.TabIndex = 3
         '
         'CheckBox1
